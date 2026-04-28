@@ -1,5 +1,5 @@
 {
-    "name": "updivision/table-extension",
+    "name": "lovers-of-behat/table-extension",
     "description": "Behat extension to inspect HTML tables",
     "type": "behat-extension",
     "require": {
